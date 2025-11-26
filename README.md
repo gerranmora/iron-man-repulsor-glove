@@ -79,7 +79,7 @@ Edit settings at the top of `code.py`:
 
 ```python
 # LED Configuration
-NUM_PIXELS = 8
+NUM_PIXELS = 7
 REPULSOR_COLOR = (255, 255, 255)  # White
 LED_BRIGHTNESS = 0.8
 
