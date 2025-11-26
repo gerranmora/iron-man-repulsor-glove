@@ -24,7 +24,7 @@ import simpleio
 # ============================================================================
 
 # LED Configuration
-NUM_PIXELS = 8  # Number of NeoPixels in your repulsor ring
+NUM_PIXELS = 7  # Number of NeoPixels in your repulsor ring
 REPULSOR_COLOR = (255, 255, 255)  # White (Iron Man classic)
 BLAST_COLOR = (255, 200, 0)  # Yellow/orange for blast effect
 LED_BRIGHTNESS = 0.8
