@@ -16,9 +16,9 @@ RP2040 PropMaker-based gesture-controlled Iron Man repulsor glove with motion-ac
 ## Hardware Requirements
 
 - **Adafruit RP2040 Prop-Maker Feather** ([#5768](https://www.adafruit.com/product/5768))
-- **NeoPixel Ring - 8 LEDs** ([#1463](https://www.adafruit.com/product/1463))
+- **NeoPixel Ring - 7 LEDs** https://www.adafruit.com/product/2226
 - **8Ω Mini Oval Speaker** ([#3923](https://www.adafruit.com/product/3923))
-- **LiPo Battery** (1200-2200mAh recommended)
+- **LiPo Battery** (https://www.adafruit.com/product/328)
 - **Wire** (22-24 AWG)
 
 **Total Cost:** ~$60-75
