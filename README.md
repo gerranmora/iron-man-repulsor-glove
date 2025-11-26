@@ -131,22 +131,17 @@ Place WAV files in `CIRCUITPY/sounds/`:
 - Angle logic is pre-configured for typical orientation
 - If behavior is inverted, check lines 255-265
 
-## Project Origin
 
-This project combines:
-- **Hardware platform:** Adafruit RP2040 Prop-Maker Lightsaber
-- **Gesture behavior:** ESP32 Wireless Repulsor Glove concept
-- **Custom tuning:** Optimized for ease of use and reliability
 
 ## License
 
-MIT License - feel free to modify and share!
+feel free to modify and share!
 
 ## Credits
 
 - **Hardware:** Adafruit Industries
 - **Concept:** plentifulprops3d (ESP32 repulsor glove)
-- **Implementation:** Custom CircuitPython adaptation
+- **Retcon Studios
 
 ---
 
